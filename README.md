@@ -1,1 +1,1 @@
-# autism-video-detection
+# Movie rating prediction
